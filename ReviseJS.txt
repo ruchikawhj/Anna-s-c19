@@ -1,0 +1,100 @@
+//variable
+Global variable="Entire code"
+Local variable="Inside code"
+
+var a=5;
+var b='c'
+var c="i am learning Javascript"
+
+What is the purpose?
+    To store the value in the memory
+    
+
+ //if-else condition
+
+ condition allow to implement certain code when certain condition is satisfied
+
+ if-else (|| or )(&& and)
+
+ if(condition a>=5)   {
+console.log("yes i am 5)
+ }
+ else{
+     console.log("No sorry!")
+ }
+and
+if(age >18(t) && age=25(t))
+{
+    c=2//statement
+}
+ if(age>25){
+ c=2
+ }
+ //Few examples
+ 1. Voting
+ 2. true or false
+
+ for-loop
+
+ for(initialization; condition; increment/decrement){
+     //statement
+ }
+
+ for(int i=2; i<50; i+=2){
+     console.log(i);
+ }
+
+ //switch case
+
+ 2 different condition in if condition
+ 1 condition different statement
+
+ switch colorcode="blue"
+
+ case 0:
+    console.log("blue");
+    break;
+case 1:
+    console.log("ligthblue");
+    break;
+
+
+
+p5 editor
+
+Physics Engine
+
+push();
+//seen like in p5 editor
+pop();
+
+BluePrint
+
+1. class
+2. purpose: plan, allow what will happen(not correct)
+3. purpose: toy factory
+    goal: 1000  same kind of toys
+    plan: yes, you like that 
+    next step: 1000 spiderman like that
+    200 : clay 
+    toy: height, width, thickness(difference)
+    machine: solution(mould)
+
+    creating multiple objects with the same properties(width, height, thickeness)
+    color: changeable
+
+    function:
+    must be same
+
+Human
+Properties:
+
+height, width, color
+
+function:
+brain()
+
+heart()
+
+
+    
